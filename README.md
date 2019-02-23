@@ -6,7 +6,7 @@
 
 ## Sumário
 
-1. [Aprensentação do Curso](pages/apresentacao.md)
+1. [Aprensentação do Curso](pages/apresentacao_curso.md)
 2. [Aprensentação do C#](pages/conhecendo_csharp.md)
 3. [Tipos de dados C#](pages/conhecendo_csharp.md)
 4. [Iniciando com C#](pages/conhecendo_csharp.md)
