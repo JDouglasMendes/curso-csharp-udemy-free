@@ -15,7 +15,7 @@
 7. [Laço de  Repetição C#](pages/conhecendo_csharp.md)
 8. [Orientação Objetos C#](pages/conhecendo_csharp.md)
 9. [Coleções C#](pages/conhecendo_csharp.md)
-10. [Coleções C#](pages/conhecendo_csharp.md)
 11. [Projeto Final Curso C#](pages/conhecendo_csharp.md)
+
 
 
